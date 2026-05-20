@@ -1,7 +1,0 @@
-{
-  "owner": "trilom",
-  "name": "file-changes-action",
-  "visibility": "public",
-  "description": "Creates outputs variables of files modified, added, or deleted by a PR or Push.",
-  "block_publish": false
-}
